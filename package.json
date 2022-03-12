@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidebCurtis/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidebCurtis/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/DavidebCurtis/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "jest": "^27.5.1"
+  }
+}
