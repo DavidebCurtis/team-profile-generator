@@ -1,24 +1,45 @@
 # team-profile-generator
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for my team members and their information
-THEN an HTML file is generated that displays a nicely formatted team roster based on user input
-WHEN I click on an email address in the HTML
-THEN my default email program opens and populates the TO field of the email with the address
-WHEN I click on the GitHub username
-THEN that GitHub profile opens in a new tab
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-WHEN I start the application
-THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
+## Description
 
-WHEN I enter the team manager’s name, employee ID, email address, and office number
-THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
+This application is written to help people create work or prject teams that has teamember information in a clean UI. upon running `node app` You will be prompted to fill out some question to help build your team. After completetion a HTML file is created and placed in the distribution folder for you to use.
 
-WHEN I select the engineer option
-THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
+### Check out the Demo here
 
-WHEN I select the intern option
-THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
+[![Alt text](./assets/screenshot.png)](https://www.youtube.com/watch?v=5Z_q55RgsAg)
 
-WHEN I decide to finish building my team
-THEN I exit the application, and the HTML is generated
+## Table of Contents
+
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
+
+## Installation
+
+`npm i, npm inquirer`
+
+## Usage
+
+npm i and enter your team information.
+
+## License
+
+This project is licensed under the MIT license
+
+## Contributing
+
+If you want to contribute, you can fork the repo and submit a PR request.
+
+## Tests
+
+To run tests, run the following command:
+`npm test`
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at [heythereimdavidcurtis@gmail.com](mailto:heythereimdavidcurtis@gmail.com). You can find mor of my work at [DavidebCurtis](https://github.com/DavidebCurtis)
