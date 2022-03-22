@@ -1,7 +1,7 @@
 {
-  "managerName": "Bobby",
-  "employeeID": "7429",
-  "email": "bobbyj@yahoo.com",
-  "officeNum": "0001",
+  "name": "john",
+  "employeeID": "john",
+  "email": "john",
+  "officeNum": "john",
   "roll": "manager"
 }

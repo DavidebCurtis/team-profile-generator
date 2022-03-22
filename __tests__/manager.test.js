@@ -12,4 +12,5 @@ test("create manager from constructor", () => {
   expect(manager.employeeID).toBe("45");
   expect(manager.email).toBe("email@website.com");
   expect(manager.officeNum).toBe("office number 1");
+  expect(manager.roll).toBe("manager");
 });

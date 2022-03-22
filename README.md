@@ -4,7 +4,7 @@
 
 ## Description
 
-This application is written to help people create work or prject teams that has teamember information in a clean UI. upon running `node app` You will be prompted to fill out some question to help build your team. After completetion a HTML file is created and placed in the distribution folder for you to use.
+This application is written to help people create work or project teams that has teamember information in a clean UI. upon running `node app` You will be prompted to fill out some question to help build your team. After completetion a HTML file is created and placed in the distribution folder for you to use.
 
 ### Check out the Demo here
 

@@ -5,5 +5,11 @@
     "email": "sallg@gmail.com",
     "gitHub": "DavidebCurtis",
     "roll": "engineer"
+  },
+  {
+    "employeeID": "milk",
+    "email": "milk",
+    "gitHub": "milk",
+    "roll": "engineer"
   }
 ]
